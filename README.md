@@ -17,6 +17,19 @@ OXO Engine combines specialized tools to work cohesively to find vulnerabilities
 
 ![Main oxo](images/main_oxo_gif.gif)
 
+## Table of Contents
+- [Requirements](#requirements)
+- [Installing](#installing)
+- [Getting Started](#getting-started)
+- [Docker Image](#docker-image)
+- [Assets](#assets)
+- [The Store](#the-store)
+- [Publish your first Agent](#publish-your-first-agent)
+- [Ideas for Agents to build](#ideas-for-agents-to-build)
+- [Contributing](#contributing)
+- [Credits](#credits)
+- [License](#license)
+
 # Requirements
 
 Docker is required to run scans locally. To install docker, please follow these
@@ -146,6 +159,18 @@ Implementation of popular tools like:
 * ~~[Subjack](https://github.com/haccer/subjack): Subdomain takeover scanning tool.~~
 * [DnsReaper](https://github.com/punk-security/dnsReaper): Subdomain takeover scanning tool.
 
+## Contributing
+
+We welcome contributions from the community. If you would like to contribute to the project, please follow these steps:
+
+1. Fork the repository on GitHub.
+2. Create a new branch from the `main` branch.
+3. Make your changes and commit them with clear and concise messages.
+4. Push your changes to your forked repository.
+5. Create a pull request to the `main` branch of the original repository.
+
+Please ensure that your code follows the project's coding standards and includes appropriate tests.
+
 ## Credits
 
 As an open-source project in a rapidly developing field, we are always open to contributions, whether it be in the form of a new feature, improved infrastructure, or better documentation.
@@ -155,3 +180,7 @@ We would like to thank the following contributors for their help in making OXO a
 * [@jamu85](https://github.com/jamu85)
 * [@ju-c](https://github.com/ju-c)
 * [@distortedsignal](https://github.com/distortedsignal)
+
+## License
+
+This project is licensed under the Apache License 2.0. See the [LICENSE](LICENSE) file for more details.
